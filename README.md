@@ -8,7 +8,7 @@ Assignment
       - contact name (null if 'N' in M/W column)
       - ethnicity (null if 'N' in M/W column) 
    
-   2733924  companies searched (from the bigger file)
+   2733924  companies searched (from the bigger file),
    4291  companies matched (from more than 9000s item in the smaller file)
 
  - result file:(.csv)
